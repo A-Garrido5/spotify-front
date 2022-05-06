@@ -7,7 +7,7 @@ docker-compose build
 
 ### Run docker images
 ```
-npm run serve
+docker-compose up
 ```
 
 ### Compiles and minifies for production
