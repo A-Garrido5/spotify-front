@@ -2,17 +2,17 @@
 
 ## Project setup
 ```
-npm install
+docker-compose build
 ```
 
-### Compiles and hot-reloads for development
+### Run docker images
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+Open site http://localhost:8080/
 ```
 
 ### Lints and fixes files
